@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Karla:wght@400;600&display=swap');
+
+body {
+    font-family: 'DM Serif Display', serif;
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.cadastro {
+    font-family: 'DM Serif Display', serif;
+    max-width: 600px;
+    margin: 30 auto;
+    padding: 20px 30px 20px 20px;
+    border: 1px solid #ccc;
+    background-color: #4e76db; 
+    border-radius: 10px;
+    margin-top: 150px;
+}
+
+h1 {
+    font-family: 'DM Serif Display', serif;
+    text-align: center;
+    
+}
+
+input, button {
+    font-family: 'DM Serif Display', serif;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+    font-size: 15px;
+}
+
+button {
+    background-color: #4caf50;
+    color: white;
+}  
+
+button:hover {
+    background-color: #04b90a;
+}
+
+#btn-voltar, #btn-lista{
+    font-family:'DM Serif Display' serif;
+    background-color: #b6b8be;
+    color: rgb(5, 5, 5);
+    border-color: rgb(255, 255, 255);
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold; 
+    outline: none;
+    transition: 2s ease-in-out;
+    margin-bottom: 10px;
+    padding: 8px;
+    width: 45%;
+}
+
+
+.divbotao1 {
+    margin-top: 6%;
+}
